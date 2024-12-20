@@ -4,6 +4,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=JoaoGuilhermeSPP&show_icons=true&theme=transparent" alt="João Guilherme">
   </a>
 </div>
+<div align="right">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGuilhermeSPP&layout=compact" alt="Joao">
+  </a>
+</div>
 <h2>Linguagens e Ferramentas utilizadas</h2>
 
 <div align = "left">
