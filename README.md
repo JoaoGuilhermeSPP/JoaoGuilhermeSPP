@@ -21,10 +21,7 @@
 
 <h2>Meus Projetos</h2>
 <ul>
-  <li><a href = "https://github.com/JoaoGuilhermeSPP/Submerged"> Submerged, Primeiro Projeto</a></li>
-  <li><a href = "https://github.com/JoaoGuilhermeSPP/Projeto"> Zaino, Projeto principal</a></li>
-  <li><a href = "https://github.com/JoaoGuilhermeSPP/CursoFPS">FPS-Projeto de estudo</a></li>
-  <li><a href = "https://github.com/JoaoGuilhermeSPP/Cadastro-de-Pessoas-HashCode"> Cadastro, usando HashCode e LINQ</a></li>
+  
  
 </ul>
 
