@@ -19,12 +19,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
 </div>
 
-<h2>Meus Projetos</h2>
-<ul>
-  
- 
-</ul>
-
 <h3>Redes Sociais</h3>
   <div align="left">
   <a href="https://www.instagram.com/joaoguilherme.pinheirobjj" target="_blank">
