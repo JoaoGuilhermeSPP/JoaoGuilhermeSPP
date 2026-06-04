@@ -1,7 +1,7 @@
 <h1>Oi, sou o João. Bem-vindo ao meu Portfólio</h1>
 <div align="right">
   <a href="https://github.com/JoaoGuilhermeSPP">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoaoGuilhermeSPP&show_icons=true&theme=transparent" alt="João Guilherme">
+  
   </a>
 </div>
 
@@ -17,9 +17,6 @@
 
 <h3>Redes Sociais</h3>
   <div align="left">
-  <a href="https://www.instagram.com/joaoguilherme.pinheirobjj" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  />
-  </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-pinheiro-062589233/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
   </a>
